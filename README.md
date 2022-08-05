@@ -2,16 +2,16 @@
 
 ## Demo
 * Home
-![](images/Home.png)
+![](./MyStore/images/Home.png)
 
 * Create
-![](images/Create.png)
+![](./MyStore/images/Create.png)
 
 * Edit
-![](images/Edit.png)
+![](./MyStore/images/Edit.png)
 
 * Delete
-![](images/Delete.png)
+![](./MyStore/images/Delete.png)
 
 
 ## Acknowledgments
